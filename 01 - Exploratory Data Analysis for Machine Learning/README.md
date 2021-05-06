@@ -1,4 +1,6 @@
-![IBM logo](Images/ibm-logo.png)
+<p align="center">
+<img src="Images/ibm-logo.png" width="300" />
+</p>
 
 # Exploratory Data Analysis for Machine Learning
 by IBM
