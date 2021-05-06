@@ -1,9 +1,11 @@
-<p align="center">
+
+
+# **Exploratory Data Analysis for Machine Learning**
+**by** 
+
+<p align="left">
 <img src="Images/ibm-logo.png" width="300" />
 </p>
-
-# Exploratory Data Analysis for Machine Learning
-by IBM
 
 ## **WEEK 01**
 * **A Brief History of Modern AI and its Applications**
