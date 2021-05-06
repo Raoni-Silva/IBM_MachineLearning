@@ -4,11 +4,13 @@ This is my repository to follow up all the courses from Coursera IBM Machine Lea
 
 Here I will post the notebooks with my notes throughout the courses.
 
+**To access the notebooks [click here](https://nbviewer.jupyter.org/github/Raoni-Silva/IBM_MachineLearning/tree/main/).** 
+
 <p align="center">
 <img src="Image/Professional_Certificate_-_IBM_Machine_Language.png" width="500" />
 </p>
 
-**PROFESSIONAL CERITICATE**
+## **PROFESSIONAL CERITICATE**
 * 01 - Exploratory Data Analysis for Machine Learning **(IN PROGRESS)**
 * 02 - Supervised Machine Learning: Regression
 * 03 - Supervised Machine Learning: Classification
@@ -17,10 +19,10 @@ Here I will post the notebooks with my notes throughout the courses.
 * 06 - Specialized Models: Time Series and Survival Analysis
 
 
-**INSTRUCTORS**
+## **INSTRUCTORS**
 * **Mark J. Grover**
     * Digital Content Delivery Lead
 * **Miguel Maldonado**
     * Machine Learning Curriculum Developer
 
-To access the notebooks [click here](https://nbviewer.jupyter.org/github/Raoni-Silva/IBM_MachineLearning/tree/main/). 
+
