@@ -1,4 +1,4 @@
-![IBM logo](https://raw.githubusercontent.com/Raoni-Silva/IBM_MachineLearning/main/01%20-%20Exploratory%20Data%20Analysis%20for%20Machine%20Learning/Images/ibm-logo.png)
+![IBM logo](Images/ibm-logo.png)
 
 # Exploratory Data Analysis for Machine Learning
 by IBM
