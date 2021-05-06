@@ -1,4 +1,4 @@
-![ibm-logo](https://user-images.githubusercontent.com/72222027/117322738-a699ec00-ae64-11eb-90de-260cff72957c.png)
+![Professional_Certificate_-_IBM_Machine_Language](https://user-images.githubusercontent.com/72222027/117340939-e3bba980-ae77-11eb-8737-c6b05bec62a1.png)
 
 # IBM_MachineLearning
 
