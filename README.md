@@ -23,4 +23,4 @@ Here I will post the notebooks with my notes throughout the courses.
 * **Miguel Maldonado**
     * Machine Learning Curriculum Developer
 
-To access the notebooks use this [link](https://nbviewer.jupyter.org/github/Raoni-Silva/IBM_MachineLearning/tree/main/). 
+To access the notebooks [click here](https://nbviewer.jupyter.org/github/Raoni-Silva/IBM_MachineLearning/tree/main/). 
