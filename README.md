@@ -6,8 +6,8 @@ Here I will post the notebooks with my notes throughout the courses.
 
 **To access the notebooks [click here](https://nbviewer.jupyter.org/github/Raoni-Silva/IBM_MachineLearning/tree/main/).** 
 
-<p align="center">
-<img src="Image/Professional_Certificate_-_IBM_Machine_Language.png" width="500" />
+<p align="left">
+<img src="Image/Professional_Certificate_-_IBM_Machine_Language.png" width="300" />
 </p>
 
 ## **PROFESSIONAL CERITICATE**
