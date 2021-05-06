@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 <img src="Image/Professional_Certificate_-_IBM_Machine_Language.png" width="500" />
 </p>
 
