@@ -1,12 +1,12 @@
-<p align="center">
-<img src="Image/Professional_Certificate_-_IBM_Machine_Language.png" width="500" />
-</p>
-
-# IBM_MachineLearning
+# IBM Machine Learning Professional Certificate
 
 This is my repository to follow up all the courses from Coursera IBM Machine Learning Professional Certificate.
 
 Here I will post the notebooks with my notes throughout the courses.
+
+<p align="center">
+<img src="Image/Professional_Certificate_-_IBM_Machine_Language.png" width="500" />
+</p>
 
 **PROFESSIONAL CERITICATE**
 * 01 - Exploratory Data Analysis for Machine Learning **(IN PROGRESS)**
