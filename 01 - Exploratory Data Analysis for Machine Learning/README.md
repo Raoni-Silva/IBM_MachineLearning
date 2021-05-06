@@ -21,3 +21,4 @@
     * Estimation and Inference and Hypothesis Testing
     * Hypothesis Testing
 
+To access the notebooks properly [click here](https://nbviewer.jupyter.org/github/Raoni-Silva/IBM_MachineLearning/tree/main/01%20-%20Exploratory%20Data%20Analysis%20for%20Machine%20Learning/).
