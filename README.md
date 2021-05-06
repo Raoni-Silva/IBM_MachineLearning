@@ -1,4 +1,6 @@
-![Professional_Certificate_-_IBM_Machine_Language](https://user-images.githubusercontent.com/72222027/117340939-e3bba980-ae77-11eb-8737-c6b05bec62a1.png)
+<p align="left">
+<img src="Image/Professional_Certificate_-_IBM_Machine_Language.png" width="500" />
+</p>
 
 # IBM_MachineLearning
 
