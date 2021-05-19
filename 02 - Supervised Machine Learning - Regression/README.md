@@ -23,4 +23,4 @@
     * Details of Regularization
 
 
-**To access the notebooks properly [click here](https://nbviewer.jupyter.org/github/Raoni-Silva/IBM_MachineLearning/tree/main/01%20-%20Exploratory%20Data%20Analysis%20for%20Machine%20Learning/).**
+**To access the notebooks properly [click here](https://nbviewer.jupyter.org/github/Raoni-Silva/IBM_MachineLearning/tree/main/02%20-%20Supervised%20Machine%20Learning%20-%20Regression/).**
