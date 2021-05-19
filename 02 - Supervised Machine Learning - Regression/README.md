@@ -2,7 +2,7 @@
 **by** 
 
 <p align="left">
-<img src="Images/ibm-logo.png" width="300" />
+<img src="https://raw.githubusercontent.com/Raoni-Silva/IBM_MachineLearning/main/Image/ibm-logo.png" width="300" />
 </p>
 
 
