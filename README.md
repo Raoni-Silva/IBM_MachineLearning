@@ -11,8 +11,8 @@ Here I will post the notebooks with my notes throughout the courses.
 </p>
 
 ## **PROFESSIONAL CERITICATE**
-* 01 - Exploratory Data Analysis for Machine Learning **(IN PROGRESS)**
-* 02 - Supervised Machine Learning: Regression
+* 01 - Exploratory Data Analysis for Machine Learning **(COMPLETE)**
+* 02 - Supervised Machine Learning: Regression **(IN PROGRESS)**
 * 03 - Supervised Machine Learning: Classification
 * 04 - Unsupervised Machine Learning
 * 05 - Deep Learning and Reinforcement Learning
